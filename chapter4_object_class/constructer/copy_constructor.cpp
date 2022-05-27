@@ -17,6 +17,7 @@ wall(double len, double high)
     height = high;
 }
 //copy constructor with wall object as parameter
+//syntax to create copy constructor - classname(classname &ojectname)
 wall(wall &obj) 
 {
     length =  obj.length;
