@@ -18,5 +18,6 @@ void calculateArea()
 }
 int main()
 {
-    calculateArea();
+    calculateArea();5
+
 }

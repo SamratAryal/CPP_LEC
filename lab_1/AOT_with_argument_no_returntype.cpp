@@ -20,5 +20,5 @@ int main()
 
     calculateArea(a,b,c,s);
     return 0;
-    
+
 }
