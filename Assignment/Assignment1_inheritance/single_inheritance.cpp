@@ -36,7 +36,7 @@ using namespace std;
     void showdata()
     {
         student::showdata();
-        cout<<"\nName of associated student union:"<<union_name;
+        cout<<"\nName of associated student union: "<<union_name;
 
     }
  };
