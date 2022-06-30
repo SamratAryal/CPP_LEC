@@ -30,3 +30,4 @@ int main()
     derived d1;
     return 0;
 }
+
