@@ -31,4 +31,5 @@ int main()
   bs=new derived;
   delete bs;
   return 0;
+    
 }
