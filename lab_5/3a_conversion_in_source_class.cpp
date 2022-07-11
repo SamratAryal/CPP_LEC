@@ -31,8 +31,9 @@ class Polar
 };
 class Rectangle
 {
-  public :
+   private:
   float x ,y;
+  public:
   Rectangle()
   {
     x = 0;
