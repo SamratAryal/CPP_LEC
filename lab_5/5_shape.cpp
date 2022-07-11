@@ -12,7 +12,7 @@ class shape
         cout<<"Enter breadth:"<<endl;
         cin>>breadth;
     }
-    virtual void display_area()=0; //virtual function in shape class
+    virtual void display_area()=0; //making display_area a virtual function
 };
 class triangle:public shape
 {
@@ -36,15 +36,11 @@ class rectangle:public shape
     {
         cout<<"For Reactangle"<<endl;
         shape::get_data();
-
-
     }
      void display_area()
     {
         cout<<"Area of reactangle is:"<<length*breadth<<endl;
-
     }
-
 };
 int main()
 {
