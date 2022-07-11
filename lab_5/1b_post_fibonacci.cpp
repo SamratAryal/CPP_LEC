@@ -5,7 +5,6 @@ class fibonacci
     private:
     int num1,num2;
     public:
-    public:
     fibonacci()
     {
         num1=0;
