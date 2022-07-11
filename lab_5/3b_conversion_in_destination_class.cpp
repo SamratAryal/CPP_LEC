@@ -3,9 +3,10 @@
 using namespace std;
 class reactangle
 {
-  public :
+  private :
   float x ,y;
-  //constrcutor
+  public:
+  
   reactangle()
   {
     x = 0;
@@ -17,7 +18,7 @@ class reactangle
     x = a;
     y = b;
   }
-//print matra garne yo class ma
+
   void showData()
   {
     cout<<"Coordinate is ("<<x<<" , "<<y<<")"<<endl;
