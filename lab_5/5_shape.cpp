@@ -12,7 +12,7 @@ class shape
         cout<<"Enter breadth:"<<endl;
         cin>>breadth;
     }
-    virtual void display_area()=0; //making display_area a virtual function
+    virtual void display_area()=0; //making display_area() a virtual function
 };
 class triangle:public shape
 {
