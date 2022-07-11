@@ -31,9 +31,9 @@ class Vector
 Vector operator + (Vector a ,Vector b )
 {   
        Vector sum;
-       sum.x = b.x + a.x;
-       sum.y = b.y + a.y;
-       sum.z = b.z + a.z;
+       sum.x = a.x + b.x;
+       sum.y = a.y + b.y;
+       sum.z = a.z + b.z;
        return sum;
 }
 int main()
