@@ -11,7 +11,7 @@ class complex
     {
         cout<<"Enter real values:"<<endl;
         cin>>real;
-        cout<<"Enter imaginary values:"<<endl;
+        cout<<"Enterimaginary  values:"<<endl;
         cin>>img;
     }
     void showValue()
