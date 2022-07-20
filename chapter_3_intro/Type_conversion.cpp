@@ -4,7 +4,7 @@ int main()
 {
     //assigning int value to num_int
     int num_int=9;
-
+    
 
     //declearing double type variable
     double num_double;
