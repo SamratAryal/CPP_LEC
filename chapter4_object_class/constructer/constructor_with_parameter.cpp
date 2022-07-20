@@ -5,7 +5,8 @@ class number{
     private:
         int a,b;
     public:
-        number(int x,int y){
+        number(int x,int y)
+        {
             a=x;
             b=y;
         }
