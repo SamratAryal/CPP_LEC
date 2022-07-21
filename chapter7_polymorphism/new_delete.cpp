@@ -4,6 +4,7 @@ int main()
 {
     int *pointint;
     float *pointfloat;
+    //allocation of memory on the heap area of the stack
     pointint=new int;
     pointfloat=new float;
     cout<<"Address assigned to pointint="<<pointint<<endl;

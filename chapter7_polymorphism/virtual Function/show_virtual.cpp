@@ -51,6 +51,7 @@ void DVD::readdata()
     cin>>dur;
 }
 void DVD::showdata()
+
 {
     cout<<"\n***Data on DVD***"<<endl;
     cout<<"Title of DVD:"<<title<<endl;
