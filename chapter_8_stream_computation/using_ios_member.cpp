@@ -48,4 +48,4 @@ int main(){
     IOS_precision();
     IOS_fill();
     return 0;
-}
+}                                                   
