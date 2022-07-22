@@ -10,4 +10,5 @@ cout<<"\nThe entered cahracter is:";
 cout.put(c);
 cout<<str;
 return 0;
+  
 }
