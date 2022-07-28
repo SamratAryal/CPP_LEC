@@ -35,8 +35,8 @@ using namespace std;
 
  int main(){
     try{
-        // person("prabin",224,12);
-        person p("prabin",90,0);
+        // person("samrat",224,12);
+        person p("samrat",90,0);
         p.check();
     }
     catch(person::MARKS){
